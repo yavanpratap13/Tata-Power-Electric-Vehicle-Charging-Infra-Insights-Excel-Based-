@@ -1,0 +1,2 @@
+# Tata-Power-Electric-Vehicle-Charging-Infra-Insights-Excel-Based-
+Tata Power EV Charging Analytics Dashboard analyzing charging demand, station utilization, customer behavior, revenue, CAPEX, EBITDA, ROI, payback period, &amp; district-wise EV demand gaps. The dashboard identifies high-potential locations &amp; supports datadriven decisions for infrastructure optimization, pricing, capacity expansion, &amp; future investment
